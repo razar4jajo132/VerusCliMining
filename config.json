@@ -2,12 +2,12 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+        	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
 	{
@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
-	"pass": "x",
+	"user": "RKbftyA81cBzX87fFbFruCJpeh482PMttp.pi3A",
+	"pass": "c=PGN",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
