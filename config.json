@@ -8,7 +8,7 @@
 
 	],
 	"user": "RA6owcKSFNqZewymPjGk5d8Ksd4ruR2o2q.pi3A",
-	"pass": "X"
+	"pass": "X",
 	"algo": "verus",
 	"threads": 4,
 	"cpu-priority": 1,
