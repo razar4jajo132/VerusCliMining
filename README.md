@@ -1,7 +1,7 @@
 # Android-Mining
 Quick installation of mining on Android Phones
 
-# No support
+## No support
 - Although the installation procedure is considered doable for people that have zero to little Linux knowledge, I do **not** provide any support to users that that mess up as a result of lack of knowledge.
 - Reading is an dying art. There's no instruction video for people that can't follow instructions step-by-step.
 
