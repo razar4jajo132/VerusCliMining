@@ -65,6 +65,8 @@ WARNING: The scripts installs my own public SSH key. You may want to remove that
 ### Use at your own risk!!!
 ## droid vnc: 
 https://play.google.com/store/apps/details?id=net.christianbeier.droidvnc_ng
+https://github.com/bk138/droidVNC-NG
+
 
 ## Userland
 https://play.google.com/store/apps/details?id=tech.ula
