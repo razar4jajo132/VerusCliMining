@@ -7,10 +7,10 @@
 	}
 
 	],
-	"user": "RA6owcKSFNqZewymPjGk5d8Ksd4ruR2o2q.lenovoi3",
+	"user": "RA6owcKSFNqZewymPjGk5d8Ksd4ruR2o2q.BLUold",
 	"pass": "X",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
