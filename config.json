@@ -10,7 +10,7 @@
 	"user": "RA6owcKSFNqZewymPjGk5d8Ksd4ruR2o2q.samS10",
 	"pass": "X",
 	"algo": "verus",
-	"threads": 4,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
