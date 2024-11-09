@@ -74,3 +74,9 @@ https://play.google.com/store/apps/details?id=tech.ula
 https://github.com/CypherpunkArmory/UserLAnd
 
 pak: https://github.com/CypherpunkArmory/UserLAnd/releases/download/v2.8.3/app-release.apk
+
+
+## keep awake
+
+apk:
+https://apkpure.com/caffeine-keep-screen-on/moe.zhs.caffeine/download
