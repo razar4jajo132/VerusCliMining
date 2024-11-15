@@ -1,6 +1,21 @@
 # Android-Mining
 Quick installation of mining on Android Phones
 
+#Main Summary items
+```bash
+curl -o- -k https://raw.githubusercontent.com/razar4jajo132/VerusCliMining/main/install.sh | bash
+```
+## Userland:
+apk: https://github.com/CypherpunkArmory/UserLAnd/releases/download/v2.8.3/app-release.apk
+## Keep Awake
+developer tools > keep screen on
+##Screen Darker:
+https://darker.en.uptodown.com/android/download
+## droid vnc: 
+apk site: https://f-droid.org/packages/net.christianbeier.droidvnc_ng/
+
+
+
 ## No support
 - Although the installation procedure is considered doable for people that have zero to little Linux knowledge, I do **not** provide any support to users that that mess up as a result of lack of knowledge.
 - Reading is an dying art. There's no instruction video for people that can't follow instructions step-by-step.
