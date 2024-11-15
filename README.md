@@ -1,7 +1,7 @@
 # Android-Mining
 Quick installation of mining on Android Phones
 
-#Main Summary items
+# Main Summary items
 ```bash
 curl -o- -k https://raw.githubusercontent.com/razar4jajo132/VerusCliMining/main/install.sh | bash
 ```
